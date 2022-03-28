@@ -1,2 +1,2 @@
 # SneepSnipe
-Sniper - Work in Progress
+Minecraft Name Sniper - Work in Progress
