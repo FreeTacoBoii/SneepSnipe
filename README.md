@@ -6,3 +6,5 @@ Features:
 - [ ] Auto Ping
 - [ ] Auto Authenticator
 - [ ] Prename Support
+- [ ] GC Support
+- [ ] Fast B)
